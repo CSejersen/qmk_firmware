@@ -26,7 +26,7 @@
     },
     "bootloader": "atmel-dfu",
     "layout_aliases": {
-        "LAYOUT": "LAYOUT_split_3x6_3"
+        "LAYOUT": "LAYOUT_split_4x6_3"
     },
     "layouts": {
         "LAYOUT_split_3x5_3": {
